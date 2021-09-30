@@ -1,0 +1,12 @@
+android-sdk-platform-tools
+b43-firmware
+font-manager
+forge-server-1.12.2
+nerd-fonts-noto-sans-regular-complete
+nerd-fonts-roboto-mono
+scrcpy
+snapd
+sublime-text-4
+tlauncher
+whatscli
+zoom
